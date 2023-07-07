@@ -10,3 +10,5 @@ Key Features:
 📊 Comprehensive Analytics: Uncover actionable insights through advanced analytics, including patient demographics, triage categories, response times, and more.
 
 🌐 Multi-Platform Access: Seamlessly access the dashboard from any device, ensuring real-time collaboration among healthcare teams.
+
+https://capsule-render.vercel.app/api?
