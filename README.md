@@ -11,4 +11,3 @@ Key Features:
 
 🌐 Multi-Platform Access: Seamlessly access the dashboard from any device, ensuring real-time collaboration among healthcare teams.
 
-https://capsule-render.vercel.app/api?
